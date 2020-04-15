@@ -1,0 +1,14 @@
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.MClientes.resources
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.MLoans.resources
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.AddLoans.resources
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.Home.resources
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.PayLoans.resources
+C:\Users\JorgeTamariz\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.AddClients.resources
